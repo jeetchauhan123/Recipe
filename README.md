@@ -9,8 +9,6 @@ The goal of this project is to practice **page layout, styling, Flexbox, gradien
 
 - **HTML5**
 - **CSS3**
-- No JavaScript
-- No frameworks
 
 ---
 

@@ -1,0 +1,2 @@
+# Recipe
+simple recipe page
